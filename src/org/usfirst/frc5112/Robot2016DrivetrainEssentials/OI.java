@@ -11,9 +11,10 @@
 
 package org.usfirst.frc5112.Robot2016DrivetrainEssentials;
 
-import org.usfirst.frc5112.Robot2016DrivetrainEssentials.commands.*;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import edu.wpi.first.wpilibj.Joystick;
+
+import org.usfirst.frc5112.Robot2016DrivetrainEssentials.commands.auto.*;
 import org.usfirst.frc5112.Robot2016DrivetrainEssentials.subsystems.*;
 
 

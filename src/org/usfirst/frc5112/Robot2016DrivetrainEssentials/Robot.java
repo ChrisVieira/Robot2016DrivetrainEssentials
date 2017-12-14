@@ -15,7 +15,8 @@ import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.livewindow.LiveWindow;
-import org.usfirst.frc5112.Robot2016DrivetrainEssentials.commands.*;
+
+import org.usfirst.frc5112.Robot2016DrivetrainEssentials.commands.auto.*;
 import org.usfirst.frc5112.Robot2016DrivetrainEssentials.subsystems.*;
 
 /**
